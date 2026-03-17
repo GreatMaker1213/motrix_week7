@@ -1,7 +1,10 @@
 ## week7
 demo可能无法正常显示，navigation目录下有源视频可供下载 
 
-
+<div align="center">
+  <video src="./navigation/init_demo.mp4" controls width="80%" style="max-width: 100%;">
+  </video>
+</div>
 https://github.com/user-attachments/assets/aaf134ed-14e7-4ac0-8e97-ce40cf189f95
 
 
