@@ -2,7 +2,7 @@
 demo可能无法正常显示，navigation目录下有源视频可供下载 
 
 <div align="center">
-  <video src="./navigation/init_demo.mp4" controls width="80%" style="max-width: 100%;">
+  <video src="navigation/init_demo.mp4" controls width="80%" style="max-width: 100%;">
   </video>
 </div>
 
