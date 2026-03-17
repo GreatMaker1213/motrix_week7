@@ -5,7 +5,6 @@ demo可能无法正常显示，navigation目录下有源视频可供下载
   <video src="./navigation/init_demo.mp4" controls width="80%" style="max-width: 100%;">
   </video>
 </div>
-https://github.com/user-attachments/assets/aaf134ed-14e7-4ac0-8e97-ce40cf189f95
 
 
 将本项目代码文件放在motrixlab项目中，路径：``motrix_envs/src/motrix_envs``,同步修改init文件，使用下述命令启动即可渲染一个anymal_c robot
